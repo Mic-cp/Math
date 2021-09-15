@@ -1,0 +1,53 @@
+body
+{
+	background: url("https://news.fnal.gov/wp-content/uploads/2020/02/2020-02-11_5e42c8469d971_White_background-scaled.jpg");
+  background-position: center;
+}
+
+	.login_div1 
+	{
+		background: rgba(128, 128, 128, 0.342);
+		margin-top: 150px;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+	
+	.login_div2 
+	{
+		background: rgba(128, 128, 128, 0.342);
+		margin-top: 50px;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+
+	}
+
+	#button1
+    {
+	background: rgba(128, 128, 128, 0.342);
+    margin-top:50px;
+	font-weight: bolder;
+	}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
